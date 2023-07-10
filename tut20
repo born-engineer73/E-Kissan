@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<!--Our web development starts here-->
+<!-- this is commemt -->
+<html lang="'en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Alignment</title>
+    <style >
+        *{
+             
+        }
+    </style>
+</head>
+<body>
+     <div class="container">
+        <ul>
+            <   >
+        </ul>
+
+</body>
+</html>
